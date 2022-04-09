@@ -74,6 +74,7 @@ Developed by: Keerthika N
 RegisterNumber: 212221230049
 */
 ```
+
 ```
 module Exercise01(a,b,y1,y2,y3,y4,y5,y6,y7);
 input a,b;
@@ -89,6 +90,7 @@ endmodule
 ```
 ## Output:
 ### Logic symbol & Truthtable
+
 ![out](./truth1.png)
 ### RTL realization 
 ![out](./rtl1.png)
