@@ -90,8 +90,8 @@ endmodule
 ```
 ## Output:
 ### Logic symbol & Truthtable
+![log](https://user-images.githubusercontent.com/93427089/173181003-2bdd77d4-36d2-4abc-ba0f-4fb9877146a0.png)
 
-![out](./truth1.png)
 ### RTL realization 
 ![out](./rtl1.png)
 
